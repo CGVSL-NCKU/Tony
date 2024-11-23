@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+papers/Animating_images.pptx filter=lfs diff=lfs merge=lfs -text
+papers/Video_Resequencing.pptx filter=lfs diff=lfs merge=lfs -text
